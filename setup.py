@@ -7,7 +7,7 @@ setup(
     name='virtualenv-tools',
     author='Fireteam Ltd.',
     author_email='support@fireteam.net',
-    version='1.0-1',
+    version='1.0.1',
     url='https://github.com/Wikia/virtualenv-tools',
     py_modules=['virtualenv_tools'],
     description='Tools for dealing with virtualenvs for code deployments (fork).',
